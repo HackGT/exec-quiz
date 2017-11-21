@@ -1,0 +1,65 @@
+.main.container {
+    max-width: 700px;
+}
+
+.answers {
+    display: flex;
+    flex-direction: column;
+}
+
+.answers .answer {
+    margin-top: 1rem;
+    height: 6rem;
+}
+
+.answers .answer p {
+    white-space: normal;
+}
+
+.question {
+    font-size: 2rem;
+    margin-top: 3rem;
+    text-align: justify;
+}
+
+html, body {
+    background-color: #f4f4f4;
+}
+
+#main {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.resultbtn {
+    display: flex;
+    justify-content: center;
+}
+
+.resultbtn a {
+    margin: 40px;
+    font-size: 2.7rem;
+    text-transform: uppercase;
+    font-weight: 900;
+    max-width: 90%;
+}
+
+.result-title {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    font-size: 3.2rem;
+}
+
+.quizresult img {
+    width: 33%;
+    float: right;
+    margin: 0rem 0rem 1rem 1rem;
+}
+
+.quizresult p {
+    text-align: justify;
+}
+
+.hidden {
+    display: none;
+}
