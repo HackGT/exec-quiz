@@ -93,7 +93,7 @@ questions =
             }
           ]
       }
-    , { name = [text "You've applied to a somewhat prestigious program. Your friends and family are fairly sure you'll be accepted and tell you to get a cake on decision day. You've brought home a cake which shouts \"Congratulations\" in sweet icing; when you read your decision aloud you slowly realize you're rejected. Deep disappointment starts settles on everyone's face, how do you console your audience and maintain your own composure?"]
+    , { name = [text "You've applied to a somewhat prestigious program. Your friends and family are fairly sure you'll be accepted and tell you to get a cake on decision day. You've brought home a cake which shouts \"Congratulations\" in sweet icing; when you read your decision aloud you slowly realize you're rejected. Deep disappointment starts to settle on everyone's face, how do you console your audience and maintain your own composure?"]
       , image = "/static/img/bill.gif"
       , answers =
           [ simpleAnswer "Don't make eye contact with anyone, say thank you and quickly walk to your room."
