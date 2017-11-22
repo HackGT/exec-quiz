@@ -22,7 +22,7 @@ questions =
           , simpleAnswer "Other places might be stuck in the stone age, but we have an open office floor plan."
           ]
       }
-    , { name = [text "A member of HackGT accidentally sent a private message to a public channel. You figure out that its subreddit all about you called:"]
+    , { name = [text "A member of HackGT accidentally sent a private message to a public channel. You figure out that its a subreddit all about you called:"]
       , image = "/static/img/excited5.gif"
       , answers =
           [ simpleAnswer "/r/roasted"
@@ -140,9 +140,9 @@ results =
       , { title = "You got: Michael Eden!"
         , image = "/static/img/michael.jpg"
         , description =
-            [ "Handsome, dashing, and pretty, Michaels are commonly thought of as the most good-looking of the exec board. The don't like to keep friends that they see as a threat close by, so if you're being ignored by a Michael, congratulations!"
+            [ "Handsome, dashing, and pretty, Michaels are commonly thought of as the most good-looking members of the exec board. They don't like to keep friends that they see as a threat close by, so if you're being ignored by a Michael, congratulations!"
             , "But being bewitching and beautiful comes at a price. For example, Michaels will often ignore seeing their partners for hours in favor of seeing themselves in the mirror. So those cohabitating with a Michael should consider covering his or her head with a paper bag (so it doesn't turn into a distraction)."
-            , "Other than simply being alluring, Michaels are also incredibly dazzling. Immediately at birth Michaels realize this and fear losing their fair appearance like their parents have. Then, at a certain age, Michaels stop looking at or owning mirrors, overwhelmed and afraid of their mortality. During this final phase, Michaels will often ask \"How do I look?\" or \"Notice anything different about me?\". It is imperative they are answered \"As angelic as the day you were born!\" and \"No, you've been in a ravishing stasis since the day you were born.\""
+            , "Other than simply being alluring, Michaels are also incredibly dazzling. Immediately at birth Michaels realize this and fear losing their fair appearance like their parents have. Then, at a certain age, Michaels stop looking at or owning mirrors, overwhelmed and afraid of their mortality. During this final phase Michaels will often ask \"How do I look?\" or \"Notice anything different about me?\". It is imperative they are answered \"As angelic as the day you were born!\" and \"No, you've been in a ravishing stasis since the day you were born.\" respectively."
             , "Michaels are well suited for jobs like Modeling, Acting, Newscasting, and Computer Programming."
             ]
         }
